@@ -13,7 +13,7 @@ project-folder/
 
 ## 🌐 Live Preview
 
-> **Note**: Add a deployment link here if hosted (e.g., GitHub Pages, Netlify, Vercel)
+>  Use the live server extension in the visual studio code.
 
 ## 💡 Features
 
