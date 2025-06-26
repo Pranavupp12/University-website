@@ -13,7 +13,7 @@ project-folder/
 
 ## 🌐 Live Preview
 
->  Use the live server extension in the visual studio code.
+>  Use the live server extension in the visual studio code or visit the link - http://university-website-nine-mu.vercel.app/
 
 ## 💡 Features
 
